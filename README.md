@@ -48,6 +48,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285f4?logo=Google+Cloud&logoColor=fff)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232f3e?logo=Amazon+AWS&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?logo=Docker&logoColor=fff)
+![Twilio](https://img.shields.io/badge/Twilio-f22f46?logo=Twilio&logoColor=fff)
 
 ## Statistics
 
