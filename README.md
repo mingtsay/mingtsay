@@ -14,6 +14,8 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?logo=iOS&logoColor=fff)
 ![React/React Native](https://img.shields.io/badge/React%2fReact%20Native-61dafb?logo=React&logoColor=000)
 ![Apache Cordova](https://img.shields.io/badge/Apache%20Cordova-e8e8e8?logo=Apache+Cordova&logoColor=000)
+![Redux](https://img.shields.io/badge/Redux-764abc?logo=Redux&logoColor=fff)
+![Material-UI](https://img.shields.io/badge/Material-UI-0081cb?logo=Material-UI&logoColor=fff)
 
 - Backend:
 ![PHP](https://img.shields.io/badge/PHP-777bb4?logo=PHP&logoColor=fff)
